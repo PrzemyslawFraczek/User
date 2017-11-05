@@ -1,4 +1,6 @@
 package com.company;
 
-public class User {
+public abstract class User {
+
+   abstract String printMyRole();
 }
